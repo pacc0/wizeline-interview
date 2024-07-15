@@ -1,0 +1,14 @@
+{
+  "happyPath": {
+    "name": "Test",
+    "lastName": "QA",
+    "email": "hadeloj228@carspure.com",
+    "password": "TestPassW!123"
+  },
+  "sadPath": {
+    "name": "Test",
+    "lastName": "QA",
+    "email": "hadelo228@carspure.com",
+    "password": "TestPassW123"
+  }
+}
